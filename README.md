@@ -17,7 +17,7 @@ curl -X POST
 }' 
 'http://localhost:9200/auth/sign'
 ```
-### Access to restricted endpoint
+### Access to restricted endpoint by `@PreAuthorize("hasRole('ROLE_USER')")`
 
 ```
 curl -X POST
@@ -26,6 +26,8 @@ curl -X POST
 --header 'Authorization: <jwt_token>' 
 'http://localhost:9200/tags?name=sometag'
 ```
+
+
 
 
 ### Utils
