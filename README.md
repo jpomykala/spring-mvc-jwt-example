@@ -31,5 +31,5 @@ curl -X POST
 
 
 ### Utils
-* H2 Database console `http://localhost:9200/db`
+* H2 Database console `http://localhost:9400`
 * Swagger `http://localhost:9200/swagger-ui.html`
