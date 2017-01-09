@@ -27,9 +27,9 @@ curl -X POST
 'http://localhost:9200/tags?name=sometag'
 ```
 
-
-
-
 ### Utils
 * H2 Database console `http://localhost:9400`
 * Swagger `http://localhost:9200/swagger-ui.html`
+
+### TODO
+* Tests ;)
