@@ -1,0 +1,4 @@
+0:0:0:0:0:0:0:1 - - [09/Jan/2017:15:52:59 +0100] "POST /auth/sign HTTP/1.1" 201 240 http-bio-9200-exec-1 637
+0:0:0:0:0:0:0:1 - - [09/Jan/2017:15:53:07 +0100] "POST /tags?name=sadasdsafdsfa HTTP/1.1" 200 35 http-bio-9200-exec-2 164
+0:0:0:0:0:0:0:1 - - [09/Jan/2017:15:53:13 +0100] "GET /tags?size=10 HTTP/1.1" 200 71 http-bio-9200-exec-3 69
+0:0:0:0:0:0:0:1 - - [09/Jan/2017:15:53:22 +0100] "GET /users HTTP/1.1" 200 103 http-bio-9200-exec-4 62

@@ -1,0 +1,13 @@
+me/jpomykala/rest/controller/form/AuthForm.class
+me/jpomykala/rest/controller/AuthenticationController.class
+me/jpomykala/rest/config/RepositoryConfig.class
+me/jpomykala/rest/config/JWTAuthenticationFilter.class
+me/jpomykala/rest/controller/form/AuthProvider.class
+me/jpomykala/rest/HomeController.class
+me/jpomykala/rest/config/ServletConfig.class
+me/jpomykala/rest/controller/TagController.class
+me/jpomykala/rest/config/ServiceConfig.class
+me/jpomykala/rest/controller/RestExceptionController.class
+me/jpomykala/rest/config/SecurityConfig.class
+me/jpomykala/rest/config/WebAppInitializer.class
+me/jpomykala/rest/controller/UserController.class

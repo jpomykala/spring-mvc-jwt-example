@@ -1,0 +1,9 @@
+me/jpomykala/model/user/view/UserView$FullView.class
+me/jpomykala/model/tag/Tag.class
+me/jpomykala/model/tag/view/TagView.class
+me/jpomykala/model/user/User$UserBuilder.class
+me/jpomykala/model/user/view/UserView.class
+me/jpomykala/model/tag/view/TagView$ListRow.class
+me/jpomykala/model/user/User.class
+me/jpomykala/model/tag/view/TagView$FullView.class
+me/jpomykala/model/user/UserRole.class

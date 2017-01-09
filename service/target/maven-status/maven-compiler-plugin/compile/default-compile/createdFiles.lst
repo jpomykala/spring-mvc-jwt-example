@@ -1,0 +1,6 @@
+me/jpomykala/service/tag/TagServiceImpl.class
+me/jpomykala/service/user/UserService.class
+me/jpomykala/service/tag/TagService.class
+me/jpomykala/service/user/UserServiceImpl.class
+me/jpomykala/service/token/TokenAuthenticationService.class
+me/jpomykala/service/token/TokenAuthenticationServiceImpl.class

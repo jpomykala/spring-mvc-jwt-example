@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="model" />
+        <module name="repository" />
+        <module name="rest" />
+        <module name="service" />
+        <module name="util" />
+        <module name="web-service" />
+        <module name="webapp" />
+        <module name="webapp-api" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="jwt-example" target="1.5" />
+      <module name="model" target="1.8" />
+      <module name="oneday" target="1.5" />
+      <module name="repository" target="1.8" />
+      <module name="rest" target="1.8" />
+      <module name="service" target="1.8" />
+      <module name="util" target="1.8" />
+      <module name="web-service" target="1.8" />
+      <module name="webapp" target="1.8" />
+      <module name="webapp-api" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
