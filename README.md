@@ -4,6 +4,8 @@ Sample Spring MVC application using JWT tokens and Spring Security
 
 Keep It Simple Stupid
 
+Checkout my [website](https://jpomykala.com) or [follow me on Twitter](https://twitter.com/jakub_pomykala)
+
 ### Register new user
 
 ```
